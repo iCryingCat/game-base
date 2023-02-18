@@ -1,0 +1,13 @@
+{
+	"name": "com.baize.game-base",
+	"displayName": "game-base",
+	"description": "game-base",
+	"version": "1.0.1",
+	"unity": "2021.3",
+	"license": "Apache",
+	"author": "baize",
+	"keywords": [
+		"com.baize.game-base",
+		"game-base"
+	]
+}

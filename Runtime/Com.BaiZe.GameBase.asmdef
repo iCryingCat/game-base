@@ -1,0 +1,17 @@
+{
+    "name": "com.baize.game-base",
+    "rootNamespace": "",
+    "references": [
+        "com.baize.sharp-toolset",
+        "com.baize.mono-toolset"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

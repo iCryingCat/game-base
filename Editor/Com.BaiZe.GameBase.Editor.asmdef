@@ -1,0 +1,18 @@
+{
+    "name": "Com.BaiZe.Game-Base.Editor",
+    "rootNamespace": "",
+    "references": [
+        "com.baize.sharp-toolset",
+        "com.baize.mono-toolset",
+        "com.baize.game-base"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
